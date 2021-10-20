@@ -2,7 +2,7 @@
 
 public class File1 {
 
-    private String name;
+    private String Lastname;
     private Integer document;
     
 }
